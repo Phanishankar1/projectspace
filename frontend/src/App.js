@@ -9,6 +9,7 @@ function App() {
     <>
     <BrowserRouter>
     <Menu/>
+    {/* hi */}
       <Routes>
        <Route path="/gallary"element={<Gallary/>}/>
        <Route path="/about"element={<About/>}/>
