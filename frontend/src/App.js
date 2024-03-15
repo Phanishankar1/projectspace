@@ -9,7 +9,7 @@ function App() {
     <>
     <BrowserRouter>
     <Menu/>
-    {/* hello */}
+  
       <Routes>
        <Route path="/gallary"element={<Gallary/>}/>
        <Route path="/about"element={<About/>}/>
